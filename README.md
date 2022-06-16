@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @brumurage
-- 🌱 I’m currently on the @codefirst:girls nanodegree summer intake for a career switvh form neuroscience to software engineering.
-- 📫 You can reach me on  @brenda_murage
+<div align="center">
+  
+# 👋 Hi, I’m Brenda
+  
+### **Career switcher from neuroscience background training to become a software engineer with @codefirst:girls**
+</div>
