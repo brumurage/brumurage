@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @brumurage
+- 🌱 I’m currently on the @codefirst:girls nanodegree summer intake for a career switvh form neuroscience to software engineering.
+- 📫 You can reach me on  @brenda_murage
