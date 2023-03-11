@@ -2,5 +2,5 @@
   
 # 👋 Hi, I’m Brenda
   
-### **Career switcher from neuroscience background training to become a software engineer with Code First Girls**
+### **Trainee Software Engineer with NatWest.**
 </div>
